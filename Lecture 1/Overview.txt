@@ -1,0 +1,31 @@
+CLASS 1 (27th Aug, Tuesday):
+
+Pseudocode
+- 1 based indexing
+- No curly braces 
+- No declaration (int, char etc.)
+- Assignment operator (= or <- can be used)
+
+Space and Time complexity analysis
+
+Linear search algorithm --- O(n)
+Jump search algorithm --- O(sqrt(n))
+Binary search algorithm --- O(log(n))
+
+CPP helper functions:
+binary_search -> return t/f whether ele is present in the array or not
+lower_bound -> returns pos of 1st occ of ele if present else pos of next higher ele
+upper_bound -> returns pos of next higher ele regardless of ele is present or not 
+
+Questions (easy to hard):
+Square root of an integer
+Number of elements smaller than a number in a sorted array
+Find the pivot element in a rotated sorted array
+Search an element in a rotated sorted array
+Matrix search problems:
+-When all rows are sorted
+-When all rows and columns are sorted
+-When all rows are sorted and last ele of every row is smaller than first ele of next row
+Painter's partition problem, Allocate books problem, Robots problem
+Median of two sorted arrays
+Matrix median (when all rows are sorted)
