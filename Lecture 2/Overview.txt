@@ -1,0 +1,25 @@
+CLASS 2 (30th Aug, Friday):
+
+Pre-requisites:
+
+What are functions?
+
+Call by value vs Call by reference
+
+Standard Template Library (STL)
+- Vectors
+- Set
+- Strings
+- sort function
+
+
+Main Class:
+
+Understanding the concept, whats and how of recursion
+
+Questions:
+Factorial of a number 
+nth Fibonacci number
+Power function
+Fast power (logarithmic time complexity)
+Tower of Hanoi problem
