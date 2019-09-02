@@ -1,0 +1,18 @@
+CLASS 3 (2nd Sep, Monday):
+
+Understanding of backtracking
+Recursion call stack
+Recursion tree 
+
+Questions:
+
+Find all n-length binary strings (in no particular order)
+
+Generalization of the above problem:
+- Find all n length strings using characters from a given set
+
+Find all subsequences of an array
+- When all the elements are unique 
+- When duplicates may be present (print unique subsequences)
+- Print in lexicographic order (using set for lexicographic ordering)
+ 
