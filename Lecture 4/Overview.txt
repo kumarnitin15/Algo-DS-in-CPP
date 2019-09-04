@@ -1,0 +1,29 @@
+CLASS 4 (4th Sep, Wednesday):
+
+Time and space complexity analysis
+- Why do we need it
+- How to compare two algos that may run on different/same machines 
+- Asymptotic analysis
+  - Best, Average and worst case
+- Asymptotic Notations (theta, big O, big omega, little o, little omega)
+- Tight and loose bounds
+
+Analyzing loops
+- O(1)
+- O(n)
+- O(m*n)
+- O(m+n)
+- O(n^c)
+- O(loglogn)
+
+Analyzing and solving recurrences:
+- Substitution method
+- Recursion tree method
+
+Divide and conquer algorithms:
+- General idea
+- Merge sort
+  - How it works
+  - Code
+  - Time complexity : O(nlogn)
+  - Recursion tree
