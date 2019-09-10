@@ -1,0 +1,16 @@
+CLASS 5 (10th Sep, Tuesday):
+
+Master Theorem
+- Statement 
+- Proof
+- Practice questions
+
+Comparison sorting Alogs:
+- Insertion sort
+- Quicksort
+
+Range Queries:
+We try to discuss the problem of range sum queries.
+- MO's algorithm
+- Square root decomposition
+
