@@ -1,0 +1,18 @@
+CLASS 6 (10th Sep, Tuesday):
+
+Range queries continued..
+
+Prefix sum array
+- Useful only for static queries (no updates allowed)
+
+Segment Tree
+- Idea
+- Code 
+- Time and space complexity 
+
+Binary Indexed Tree(BIT) / Fenwick Tree:
+- Idea 
+- Code
+- Time and space complexity 
+
+Comparison between the above solutions for range sum
