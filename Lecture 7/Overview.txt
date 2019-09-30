@@ -1,0 +1,21 @@
+CLASS 7 (30th Sep, Monday):
+
+Range updates and point queries 
+
+Range updates and range queries:
+- Lazy propogation
+
+Problems:
+- Range minimum 
+- GCD of a range 
+- LCM of a range
+- Min-Max queries
+- Count and toggle queries in a binary array
+- Count inversions in an array
+
+Linked lists:
+- Structure 
+- Insertion in a linked list:
+  - Insertion in beginning
+  - Insertion in end
+- Traversal of list
