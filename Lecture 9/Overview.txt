@@ -1,0 +1,24 @@
+CLASS 9 (3rd Oct, Thursday):
+
+Linked list problems:
+- Insert element at nth position
+- Delete element at nth position
+- Searching (iterative and recursive)
+- Print the middle element of list 
+- Nth node from the end of a list
+- Intersection and union of two Sorted Linked Lists
+- Intersection point of two Linked Lists.
+- Reversal:
+  - Rev the list 
+  - K rev the list 
+  - Alternate k rev the list 
+- Loop in a linked list:
+  - Detect a loop
+  - Length of loop, nodes in the loop
+  - Start point of loop
+
+Question to be discussed in next class:
+- Add two lists and put the result in the third list
+  - When extra space is allowed 
+  - Extra space not allowed 
+  - Rev the list and extra space not allowed
