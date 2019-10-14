@@ -1,0 +1,15 @@
+CLASS 8 (3rd Oct, Thursday):
+
+Stacks:
+- Concept and Implementation
+- Stack using a linked list
+- Stack using two queues
+- Stack using one queue and call stack
+
+Queues:
+- Concept and Implementation
+- Queue using a linked list 
+- Queue using two stacks 
+- Queue using one stack and call stack
+
+Important learning : How to use recursion call stack as storage.
