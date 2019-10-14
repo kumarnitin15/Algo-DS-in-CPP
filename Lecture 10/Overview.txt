@@ -1,0 +1,21 @@
+CLASS 10 (15th Oct, Tuesday):
+
+Doubly Ended Queue (deque):
+- Usage in STL
+- Maximum element in every subarray of size k
+- Max length unique character substring
+
+Stack related problems:
+- Next greater element in a circular array
+- Balanced Parenthesis
+- Asteroid problem
+- Stock span
+- Histogram problem
+- Followup of histogram problem: 
+  Largest rectangle of 1s in a binary matrix
+
+Question from last class:
+- Add two lists and put the result in the third list
+  - When extra space is allowed 
+  - Extra space not allowed 
+  - Reversing the list and using extra space not allowed
