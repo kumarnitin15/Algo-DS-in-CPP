@@ -1,0 +1,18 @@
+CLASS 11(21st Oct, Monday):
+
+Heaps:
+- Motivation for heaps
+- Complete binary tree
+- Heap order property
+- Insertion => O(logn)
+- Build heap => O(n)
+- Proof of build heap time complexity
+- Deletion => O(logn)
+- Heapify => O(logn)
+- Implementation 
+
+Priority queues
+
+priority_queue in STL
+- Default (max heap ordering)
+- User defined (using functors to set priority)
