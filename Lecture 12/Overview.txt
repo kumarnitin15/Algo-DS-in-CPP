@@ -1,0 +1,15 @@
+CLASS 12(22nd Oct, Tuesday):
+
+HeapSort - O(nlogn)
+
+Problems(Easy to hard):
+- Sum of all elements between k1'th and k2'th smallest elements
+- Merge two max heaps
+- Convert min heap to max heap
+- Sort a nearly sorted (k sorted) array
+- Minimum sum of two numbers formed from digits of an array
+- kth largest element in a running stream
+- Merge k sorted arrays 
+- Running median
+- Minimum stops at petrol pumps to reach end position
+
