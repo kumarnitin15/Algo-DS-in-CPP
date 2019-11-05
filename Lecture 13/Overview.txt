@@ -1,0 +1,26 @@
+CLASS 13(5th Nov, Tuesday):
+
+Hashing:
+- Introduction
+- Direct Access Table
+- Collision Handling
+  --Chaining
+  --Open Addressing (Linear probing, Quadratic probing, Double hashing)
+  --Major differences between chaining and open addressing
+- Load factor
+- Rehashing
+
+Implementation in STL:
+- map
+- unordered_map
+
+Problems:
+- Design a data structure that supports insert, delete, search and getRandom in constant time
+- Find whether an array is subset of another array
+- Minimum delete operations to make all elements of array same
+- 2 Sum
+- Largest Continuous Sequence Zero Sum
+- Given a binary array find the largest subarray such that:
+  - Number of zeros equals to the number of ones
+  - Number of ones is one more than the number of zeros
+- Anagrams
