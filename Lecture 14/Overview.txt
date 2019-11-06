@@ -1,0 +1,32 @@
+CLASS 14 (6th Nov, Wednesday):
+
+- Indexing the web (elasticearch)
+
+Number theory:
+
+- Modular aritmetic
+  - Basic understanding of mod operator
+  - Properties
+	- (a+b)%m = a%m + b%m
+	- (a-b)%m = (a%m - b%m + m)%m
+	- (a*b)%m = ((a%m)*(b%m))%m
+	- (a/b)%m = ((a%m)*(binv%m))%m
+  - Fast modular exponentiation (multiplication to high powers)
+    - Recurive 
+    - Iterative (using bitmasks)
+
+- Greatest Common Divisor : gcd(a, b)
+  - Brute force O(min(a, b))
+  - Euclid's Algorithm
+  - Time complexity of Euclid O(log(min(a, b)))
+  - LCM(a, b) : gcd(a, b) * lcm(a, b) = a * b
+  - GCD / LCM of array
+  - Extended gcd
+  - Multiplicative modulo inverse
+
+- Primes
+  - There are infinite primes (proof)
+  - Check whether a number is prime
+  - Sieve of eratosthenes
+    - Code
+    - Time complexity O(nloglogn ~ n)
