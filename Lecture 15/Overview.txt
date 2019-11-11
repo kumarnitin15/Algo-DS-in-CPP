@@ -1,0 +1,26 @@
+CLASS 15 (11th Nov, Monday):
+
+- Sieve (contd...):
+  - Segmented Sieve (prime numbers in small ranges and big numbers)
+    - Idea : To find the primes upto n it is sufficient to know the primes upto sqrt(n)
+    - Code
+
+- Fermat's little theorem
+
+- Modulo of large numbers
+
+- Modular exponentiation of large numbers to large powers
+
+- Prime factorization of a number
+
+- Linear diophantine equations
+  - The equation
+  - How to solve?
+    - Brute force 
+    - Using extended GCD
+
+- Chinese Remainder Theorem
+  - The theorem
+  - Proof
+
+- Matrix exponentiation : Find nth fib in O(logn)
