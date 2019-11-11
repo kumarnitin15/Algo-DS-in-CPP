@@ -23,4 +23,6 @@ CLASS 15 (11th Nov, Monday):
   - The theorem
   - Proof
 
-- Matrix exponentiation : Find nth fib in O(logn)
+- Matrix exponentiation
+  - Idea
+  - Finding the nth fib number in O(logn)
