@@ -1,0 +1,41 @@
+CLASS 16 (6th Jan, Monday):
+
+Binary Tree:
+- Introduction
+- Design
+- Types : Full, Complete, Perfect, Balanced, Skew
+- Properties
+
+Binary Search Tree (BST):
+- The BST property 
+- Insertion
+- Deletion
+- Search
+
+Traversals:
+- Preorder
+- Inorder 
+- Postorder
+- Level order
+
+Problems:
+- Print a specific level of a tree (rec, iter)
+- Level order:
+  - Line by line
+  - Spiral 
+  - Direction change after every 2 levels
+  - Reverse level order 
+  - Perfect binary tree specific
+  - Reverse every level of a tree
+  - Reverse alt levels
+- Diagonally print a tree
+- Print nodes in the same vertical level
+
+
+
+
+
+
+
+
+
