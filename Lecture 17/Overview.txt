@@ -1,0 +1,32 @@
+CLASS 17 (9th Jan, Thursday):
+
+Structure:
+- Identical binary trees
+- Symmetric/Mirror tree
+
+
+Root to Leaf:
+- Is there a path with a specific sum
+- If path exists, print one such path
+- Print all such paths
+- Print all paths lexicographically
+- Find sum of all root to leaf path numbers if each node represents a digit
+
+
+Height/Depth:
+- Min depth
+- Max depth
+- Determine if a tree is height balanced
+- Diameter of the tree
+
+
+Tree Construction:
+- Binary tree from given inorder and preorder (O(n2), O(n)=>When only unique elements in the tree)
+- Binary tree from given inorder and postorder
+- Binary tree from given inorder and level order
+- Sorted array to balanced BST
+- Why does preorder and postorder not give a unique tree?
+- Complete Binary Tree from its Linked List/Array rep
+
+
+Node successors and predecessors
