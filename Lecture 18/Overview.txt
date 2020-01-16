@@ -1,0 +1,15 @@
+CLASS 18(16th Jan, Thursday):
+
+Lowest Common Ancestor:
+- Find the lca between 2 given nodes.
+- Distance between 2 nodes.
+
+AVL Trees:
+- Balancing property
+- Insertion
+- Deletion
+
+Red Black Tree:
+- Introduction 
+- Properties
+- to be continued...
