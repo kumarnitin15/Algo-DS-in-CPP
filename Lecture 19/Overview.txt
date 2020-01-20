@@ -1,0 +1,15 @@
+CLASS 19 (20th Jan, Monday):
+
+Red Black Tree:
+- Quick Review
+- Insertion
+- Deletion
+- Code not required
+
+Tries:
+- Introduction
+- Properties 
+- Insertion
+- Search 
+- Deletion
+- Code
